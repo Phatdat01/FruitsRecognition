@@ -1,4 +1,4 @@
-# We have 10 type of fruits can be recognized
+# We have 10 types of fruits that can be recognized
 * Tao
 * Thom
 * Buoi
