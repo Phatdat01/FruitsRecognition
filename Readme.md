@@ -5,7 +5,7 @@
 * Mit
 * Xoai
 * Khe
-* Mit
+* Cam
 * Chuoi
 * Coc
 * Hau
