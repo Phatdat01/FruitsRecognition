@@ -1,0 +1,40 @@
+item { 
+	name:'Tao'
+	id:1
+}
+item { 
+	name:'Chuoi'
+	id:2
+}
+item { 
+	name:'Hau'
+	id:3
+}
+item { 
+	name:'Thom'
+	id:4
+}
+item { 
+	name:'Xoai'
+	id:5
+}
+item { 
+	name:'Buoi'
+	id:6
+}
+item { 
+	name:'Cam'
+	id:7
+}
+item { 
+	name:'Coc'
+	id:8
+}
+item { 
+	name:'Khe'
+	id:9
+}
+item { 
+	name:'Mit'
+	id:10
+}
